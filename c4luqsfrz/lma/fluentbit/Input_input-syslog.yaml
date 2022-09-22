@@ -14,5 +14,5 @@ spec:
     bufferMaxSize: 1M
     memBufLimit: 5M
     parser: syslog-rfc5424
-    path: /var/log/messages
+    path: /var/log/syslog
     tag: "syslog.*"
